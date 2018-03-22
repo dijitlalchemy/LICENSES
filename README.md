@@ -19,7 +19,7 @@ EOSDA gives everyone all of these great benefits:
            Liability; Warranty; Patents;
 
 Terms & Conditions: 
-Patent Rights and Commericial Use are subject to ROYALTY Arrangements/Agreements/Contracts.
+Patent Rights and Commercial Use are subject to ROYALTY Arrangements/Agreements/Contracts.
             
             NO ROYALTIES. NO PATENT RIGHTS. NO COMMERCIAL USE.
 
