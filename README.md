@@ -1,4 +1,4 @@
-# LICENSES
+# LICENSING
 Empire of Slop Dijitlalchemy Licenses
 Copyright (C) 2018 Empire of Slop <https://empireofslop.tumblr.com/>
 
