@@ -1,0 +1,64 @@
+EOS DIJITLALCHEMY LICENSE 
+Version 1, Mar 20th, 2018 
+Copyright (C) 2018 Empire of Slop <https://empireofslop.tumblr.com/>
+Everyone is permitted to copy and distribute verbatim copies of this license 
+document, but changing it is not allowed. A copy of this open source software 
+license document can be found online at <https://github.com/dijitlalchemy/LICENSES/>.
+
+[SOFTWARE NAME] [VERSION]
+Copyright (c) [YYYY] [AUTHOR]
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+Neither the name of the copyright holder nor the names of its contributors may 
+be used to endorse or promote products derived from this software without specific 
+prior written permission.
+
+NO EXPRESS OR IMPLIED LICENSES TO ANY PARTY'S PATENT RIGHTS ARE GRANTED BY
+THIS LICENSE. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+A COPY OF THIS LICENSE IS ONLINE at <[site/software/lic]>.
+
+How to Apply These Terms to Your New Programs
+
+  If you develop a new program, and you want to redistribute and change under 
+  these terms(use the EOS DA License), then follow the steps below.
+
+  To do so, attach the following notices to the program.  It is safest
+  to attach them to the start of each source file to most effectively
+  state the exclusion of warranty; and each file should have at least
+  the "copyright" line and a pointer to where the full notice is found.
+
+    
+    [SOFTWARE NAME] [VERSION]
+    //one line to give the program's name and a brief idea of what it does
+    Copyright (c) [YYYY] [AUTHOR]
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the EOS DIJITLALCHEMY LICENSE as published
+    by the Empire of Slop, either version 1 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY. See the EOS DIJITLALCHEMY LICENSE for more 
+    details.
+
+    You should have received a copy of the EOS DIJITLALCHEMY LICENSE
+    along with this program. If not, see <https://github.com/dijitlalchemy/LICENSES/>.
+
+  Also add information on how to contact you.
