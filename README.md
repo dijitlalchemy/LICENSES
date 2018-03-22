@@ -1,9 +1,8 @@
-# EOSDAL
-Empire of Slop Dijitlalchemy License
-
-EOS DIJITLALCHEMY LICENSE 
-Version 1, Mar 20th, 2018 
+# LICENSES
+Empire of Slop Dijitlalchemy Licenses
 Copyright (C) 2018 Empire of Slop <https://empireofslop.tumblr.com/>
-Everyone is permitted to copy and distribute verbatim copies of this license 
-document, but changing it is not allowed. A copy of this open source software 
-license document can be found online at <https://github.com/dijitlalchemy/LICENSES/>.
+
+We make our own open source software license documents. 
+Everyone is permitted to copy and distribute verbatim copies of our license 
+documents, but changing them is not allowed. Copies of our open source software 
+license documents can be found online at <https://github.com/dijitlalchemy/LICENSES/>.
